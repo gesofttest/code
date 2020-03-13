@@ -1,2 +1,46 @@
 https://gyy.sytouch.com/sjBang/getIndustryType.action
 https://gyy.sytouch.com/sjBang/getDemandOneispay.action?openId=zhang&demandId=46
+	//	$("#daibiaoren").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//	$("#ziben").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//	$("#diqu").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//	$("#daima").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//	$("#huafen").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//
+	//	$("#leixing").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//
+	//	$("#changliTime").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//
+	//	$("#jingyingfanwei").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//
+	//	$("#gaikuang").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//	$("#phone").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//
+	//	$("#email").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//	$("#address").blur(function() {
+	//		updTCyCompany(id);
+	//	});
+	//	$("#website").blur(function() {
+	//		updTCyCompany(id);
+	//	});
